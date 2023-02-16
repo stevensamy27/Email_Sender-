@@ -124,9 +124,9 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-EMAIL_HOST = 'smtp.hushmail.com' 
-EMAIL_PORT = 587 
-EMAIL_HOST_USER =  'stevensivo27@gmail.com'
-EMAIL_HOST_PASSWORD = 'JYPmcq?/5ByFm.S'
+EMAIL_HOST = 'smtp.gmail.com' 
+EMAIL_PORT = 2525  
+EMAIL_HOST_USER =  'steven.zaki@booking.com'
+EMAIL_HOST_PASSWORD = 'myPasword'
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
